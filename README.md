@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Sylvain and I'm a Computer Science student at Université Gustave Eiffel, France
+I'm Sylvain Tran and I'm a Computer Science student at Université Gustave Eiffel, France
